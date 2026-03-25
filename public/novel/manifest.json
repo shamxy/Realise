@@ -1,0 +1,16 @@
+{
+  "title": "Realise",
+  "author": "Adam G. Shamoye",
+  "chapters": [
+    {
+      "id": "prologue",
+      "title": "Prologue",
+      "file": "prologue.md"
+    },
+    {
+      "id": "chapter-1",
+      "title": "Chapter 1",
+      "file": "chapter-01.md"
+    }
+  ]
+}

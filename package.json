@@ -1,0 +1,19 @@
+{
+  "name": "local-novel-platform",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "state:update": "node scripts/update-state.mjs"
+  },
+  "devDependencies": {
+    "typescript": "~5.6.3",
+    "vite": "^6.0.3"
+  },
+  "dependencies": {
+    "marked": "^15.0.4"
+  }
+}
